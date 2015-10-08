@@ -29,7 +29,7 @@ if (isset($_POST['ajouter'])) {
     }
 }
 ?>
-<!-- Formulaire création collection-->
+<!-- Formulaire création collecion-->
 <form method="post">
     <div class="element">
         <label for="email">E-mail du créateur *</label>
