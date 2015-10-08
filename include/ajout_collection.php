@@ -44,5 +44,5 @@ if (isset($_POST['ajouter'])) {
         <textarea id="description" name="description"></textarea>
     </div>
     <input type="submit" name="ajouter" value="Ajouter la collection" />
-    <!--ommentaire fin -->
+    <!--ommentaire fin  -->
 </form>
